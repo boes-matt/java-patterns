@@ -10,3 +10,4 @@ Inspired by the book <i>A Little Java, A Few Patterns</i> by Matthias Felleisen 
 [com.boes.patterns.structure](https://github.com/boes-matt/java-patterns/tree/master/Patterns/src/com/boes/patterns/structure): List, Node, and Empty data structures
 [com.boes.patterns.visitor](https://github.com/boes-matt/java-patterns/tree/master/Patterns/src/com/boes/patterns/visitor): Occurs, Remove, Substitute, and String visitor behaviors
 
+
